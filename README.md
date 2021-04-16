@@ -65,7 +65,7 @@ We’ll review each of these phases and associated subsets in detail in the rema
 
 Our COVID-19 face mask detection dataset as shown in Figure 3:
 
-![Figure 3](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_dataset.jpg)
+![Figure 3](https://www.weboccult.com/blog/wp-content/uploads/2020/05/Mask-and-unmask-1024x566.jpg)
 
 Figure 3: A face mask detection dataset consists of “with mask” and “without mask” images. 
 
