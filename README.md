@@ -12,10 +12,9 @@
 
 
 - [ ] **Objectives:**
-- Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+- to prevent the spread of Corona virus by promoting the use of face masks with the help of effective technology to detect the face mask.
+- to help to take necessary precautions for the safety of society by predicting the future outbreaks of COVID-19.
+- to ensure a safe working environment
 
 
 ##  B. ABSTRACT 
