@@ -188,7 +188,7 @@ You can then launch the mask detector in real-time video streams using the follo
 - INFO] loading face mask detector model...
 - [INFO] starting video stream...
 
-[![Figure5](https://img.youtube.com/vi/YX8BzK_LU0E/0.jpg)](https://www.youtube.com/watch?v=YX8BzK_LU0E "Figure5")
+[![Figure5](https://img.youtube.com/vi/atw41gV5LJo/0.jpg)](https://www.youtube.com/watch?v=atw41gV5LJo "Figure5")
 
 Figure 5: Mask detector in real-time video streams
 
@@ -212,7 +212,7 @@ We then took this face mask classifier and applied it to both images and real-ti
 
 Our face mask detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
 
-[![demo](https://img.youtube.com/vi/atw41gV5LJo/0.jpg)](https://www.youtube.com/watch?v=atw41gV5LJo "demo")
+[![demo](https://img.youtube.com/vi/Ax6P93r32KU/0.jpg)](https://www.youtube.com/watch?v=Ax6P93r32KU "demo")
 
 
 
